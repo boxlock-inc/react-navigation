@@ -36,7 +36,7 @@
     "react-lifecycles-compat": "^3.0.2",
     "react-native-drawer-layout-polyfill": "^1.3.2",
     "react-native-safe-area-context": "^3.1.9",
-    "react-native-safe-area-view": "^1.1.1",
+    "react-native-safe-area-view": "https://github.com/boxlock-inc/react-native-safe-area-view.git",
     "react-native-tab-view": "https://github.com/boxlock-inc/react-native-tab-view.git"
   },
   "devDependencies": {
